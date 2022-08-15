@@ -6,6 +6,12 @@ body{
 
 .titulo{
     font-family: 'Orbitron', sans-serif;
+    font-size: 3em;
+    color: rgb(253, 243, 243)
+    
+}
+.cronometro{
+    font-family: 'Orbitron', sans-serif;
+    color: aliceblue;
     font-size: 2em;
-    color: #fff
 }

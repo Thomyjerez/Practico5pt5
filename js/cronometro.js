@@ -14,7 +14,7 @@ function iniciar (){
 function parar(){
     clearInterval(controlador);
     document.querySelector('#parar').disabled = true;
-    document.querySelector('#continuar').disabled = false;
+    document.querySelector('#reanudar').disabled = false;
 
 }
 
